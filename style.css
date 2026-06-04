@@ -1,13 +1,10 @@
 body {
     font-family: Script, Luckiest Guy;
     margin: 0;
+     background-color: blue;
+
 }
-body {
-    background-color: blue;
-}
-body {
-    background-color: #4A90E2;
-}
+
 nav {
     background-color: #2a52be;
     padding: 20px;
@@ -18,14 +15,11 @@ img {
     max-width: 100%;
     height: auto;
 nav a {
-    color: blue;
+    color: white;
     text-decoration: none;
     margin-right: 20px;
 }
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-}
+
 
 .container {
     display: flex;
