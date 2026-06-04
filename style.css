@@ -7,7 +7,11 @@ nav {
     background-color: #100;
     padding: 20px;
 }
-
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
 nav a {
     color: blue;
     text-decoration: none;
