@@ -1,5 +1,5 @@
 body {
-    font-family: Times, sans-serif;
+    font-family: Script, Luckiest Guy;
     margin: 0;
 }
 
@@ -9,7 +9,7 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: blue;
     text-decoration: none;
     margin-right: 20px;
 }
