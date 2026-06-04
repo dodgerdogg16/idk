@@ -2,7 +2,9 @@ body {
     font-family: Script, Luckiest Guy;
     margin: 0;
 }
-
+body {
+    background-color: blue;
+}
 nav {
     background-color: #2a52be;
     padding: 20px;
